@@ -52,28 +52,19 @@ Installation
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/hildujcl/campus.git
-   ```
-
 
 2. Open the project folder:
 
-   ```bash
    cd campusconnect
-   ```
 
 3. Install dependencies:
 
-   ```bash
    npm install
-   ```
 
 4. Start the development server:
 
-   ```bash
    npm run dev
-   ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
@@ -84,8 +75,7 @@ To check whether the application builds successfully, run:
 bash
 npm run build
 
-
- 💾 Data Storage
+💾 Data Storage
 
 CampusConnect currently uses browser Local Storage for demo account information, session data, and newly created events. Sample events, resources, and announcements are also provided by the project.
 
@@ -97,7 +87,7 @@ The current sign-up and sign-in functionality is intended for demonstration and 
 
 A future version could use a secure authentication provider, server-side authorization, and a database.
 
- ⚠️ Current Limitations
+⚠️ Current Limitations
 
 - No backend database is connected.
 - Demo account and event data are stored locally in the browser.
@@ -114,7 +104,7 @@ A future version could use a secure authentication provider, server-side authori
 - Add event search, filtering, and categories.
 - Improve accessibility and automated testing.
 
- 🌐 Links
+🌐 Links
 
 - **GitHub Repository:** https://github.com/hildujcl/campus
 - **Live Application:** Add your deployed Vercel URL here after deployment.
@@ -124,6 +114,6 @@ A future version could use a secure authentication provider, server-side authori
 **Hildana Asfaw**
 Full Stack Developer
 
- 📄 License
+📄 License
 
 This project was developed for educational and portfolio purposes.
